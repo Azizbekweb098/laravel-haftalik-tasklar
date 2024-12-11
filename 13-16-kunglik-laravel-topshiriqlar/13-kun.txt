@@ -1,0 +1,3 @@
+1 - laravel jwt token bilan login register
+2- laravel qilgan loyihani serverga qoyish
+3- laravel - admin role bilan ishlash

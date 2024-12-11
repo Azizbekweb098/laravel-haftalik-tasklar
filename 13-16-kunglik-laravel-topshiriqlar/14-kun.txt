@@ -1,0 +1,3 @@
+laravel - blog - app loyihani boshlash
+laravel - da blog loyihani jwt token orqali login register qilish 
+laravel - login register bolgan ularni emailiga blog app loyihasiga siz dasturga kirdiz deb sms borish,

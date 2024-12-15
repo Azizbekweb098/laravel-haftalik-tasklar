@@ -1,0 +1,11 @@
+Payshanba: Notifications
+Maqsad: Laravelda turli kanallar orqali bildirishnomalar yuborish.
+
+O‘rganish:
+Notification yaratish va yuborish (php artisan make:notification).
+Email va Database orqali notifikatsiya yuborish.
+Notification interfeysini tuzish.
+Amaliyot:
+
+Foydalanuvchiga ma’lum bir harakatdan keyin email yuboring.
+Notificationni bazada saqlab, uni foydalanuvchi interfeysida ko‘rsating.

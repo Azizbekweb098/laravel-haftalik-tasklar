@@ -1,0 +1,11 @@
+Seshanba: Events va Listeners
+Maqsad: Laravel Event tizimini tushunish va foydalanishni o‘rganish.
+
+O‘rganish:
+Event-Listener nima va qanday ishlaydi.
+Event va Listener yaratish (php artisan make:event va make:listener).
+Event’larni queue yordamida ishlatish.
+Amaliyot:
+
+Foydalanuvchi ro‘yxatdan o‘tganida "Welcome" email yuboruvchi Event va Listener yarating.
+Log yozishni Event orqali avtomatlashtiring.

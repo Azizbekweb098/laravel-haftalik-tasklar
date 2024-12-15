@@ -1,0 +1,11 @@
+Juma: Queue va Jobs
+Maqsad: Laravel queue tizimi orqali katta vazifalarni avtomatlashtirish.
+
+O‘rganish:
+Queue va Jobs nima uchun kerak.
+Redis yoki database driver’ni sozlash.
+Jobs’ni bajarish va monitoring qilish.
+Amaliyot:
+
+Foydalanuvchilar soni ko‘p bo‘lganda email yuborish vazifasini queue yordamida bajaring.
+Failed jobs bilan ishlashni o‘rganing.

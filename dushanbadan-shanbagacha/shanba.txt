@@ -1,0 +1,11 @@
+Shanba: Cache va Task Scheduling
+Maqsad: Laravelning resurslarni optimallashtirish vositalaridan foydalanishni o‘rganish.
+
+O‘rganish:
+Cache tushunchasi: ma’lumotlarni vaqtinchalik saqlash.
+Task scheduling orqali avtomatik vazifalarni boshqarish.
+Cache’ni invalidatsiya qilish.
+Amaliyot:
+
+Sahifa ma’lumotlarini cache’da saqlang.
+Har kuni ertalab avtomatik ravishda foydalanuvchilarga email yuboradigan schedule yozing.
